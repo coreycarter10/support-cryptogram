@@ -1,0 +1,32 @@
+Queue 
+Pair Programming
+Advisor Meetings
+Message instructor or mentor
+
+
+A - Q
+B-S
+C-E
+D- R
+E-D
+F- G
+G-
+H-
+I-M
+J-U
+K-
+L-P
+M-
+N-
+O-
+P- I
+Q- N
+R-
+S-
+T-
+U-T
+V-
+W-V
+X-
+Y- O
+Z- A
